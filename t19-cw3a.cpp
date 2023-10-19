@@ -1,5 +1,5 @@
 /*
-Uruchom powyzszy program i sprawdz jego dzialanie.
+Uruchom powyzszy program i sprawdz jego dzialanie. Nowa
 */
 
 #include <iostream>
